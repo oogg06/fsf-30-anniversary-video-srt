@@ -1,0 +1,158 @@
+﻿1
+00:00:02,799 --> 00:00:04,837
+El software está a nuestro alrededor
+
+2
+00:00:05,087 --> 00:00:07,513
+y a veces dentro de nosotros
+
+3
+00:00:08,887 --> 00:00:11,123
+¿pero qué ocurre cuando
+
+4
+00:00:11,827 --> 00:00:13,643
+una herramienta obedece a otra persona?
+
+5
+00:00:14,870 --> 00:00:17,640
+Una herramienta que controlas sirve a tus intereses
+
+6
+00:00:18,249 --> 00:00:20,090
+Pero si la controla otra persona
+
+7
+00:00:20,340 --> 00:00:22,286
+servirá a su dueño
+
+8
+00:00:22,682 --> 00:00:24,338
+Cuando puedes examinar las herramientas
+
+9
+00:00:24,588 --> 00:00:25,787
+para ver como funcionan
+
+10
+00:00:25,999 --> 00:00:27,268
+puedes aprender como funcionan
+
+11
+00:00:28,579 --> 00:00:31,445
+incluso modificarlas para que funcionen de manera diferente o mejor
+
+12
+00:00:33,124 --> 00:00:35,162
+Cuando puedes compartir una herramienta e intercambiarla
+
+13
+00:00:35,379 --> 00:00:38,162
+ayudas a otros y a la vez otros te ayudan a ti
+
+14
+00:00:38,799 --> 00:00:42,887
+De hecho así es como se desarrollaba antes en informática
+
+15
+00:00:43,137 --> 00:00:45,740
+Todo el mundo podía ver el código de un programa
+
+16
+00:00:45,840 --> 00:00:48,769
+y la gente compartía libremente su trabajo para que todo creciera
+
+17
+00:00:51,249 --> 00:00:54,095
+cada usuario era un posible creador
+
+18
+00:00:56,834 --> 00:00:59,813
+pero cuando las empresas empezaron a bloquear el acceso al código
+
+19
+00:01:00,207 --> 00:01:03,134
+se hizo imposible el participar
+
+20
+00:01:03,384 --> 00:01:06,019
+o incluso saber lo que estaba haciendo el código
+
+21
+00:01:09,231 --> 00:01:11,710
+Como respuesta, los hackers crearon el proyecto GNU
+
+22
+00:01:11,960 --> 00:01:16,540
+para crear un sistema diseñado para respetar la autonomía de los usuarios
+
+23
+00:01:18,171 --> 00:01:20,015
+Optaron por la maniobra del copyleft
+
+24
+00:01:20,226 --> 00:01:23,535
+y la insertaron dentro de la licencia pública general GNU
+
+25
+00:01:23,785 --> 00:01:25,889
+una estructura legal que preserva los derechos de los usuarios
+
+26
+00:01:27,381 --> 00:01:30,106
+En solo diez años el movimiento del software libre
+
+27
+00:01:30,356 --> 00:01:32,271
+había producido el sistema GNU
+
+28
+00:01:32,521 --> 00:01:35,917
+Computación que nadie podía poseer pero que todo elmundo podía usar
+
+29
+00:01:38,135 --> 00:01:40,590
+Hoy en día mantiene aviones en el aire
+
+30
+00:01:41,258 --> 00:01:42,944
+gestiona mercados
+
+31
+00:01:44,388 --> 00:01:47,219
+y hace funcionar Internet
+
+32
+00:01:50,049 --> 00:01:53,347
+Todos nos encontramos con el software libre en formas invisibles
+
+33
+00:01:53,597 --> 00:01:56,464
+Pero la libertad del software fue diseñada para las personas
+
+34
+00:01:57,489 --> 00:02:00,305
+tiene que ver con la forma que toma la tecnología que habitamos
+
+35
+00:02:10,418 --> 00:02:13,117
+(liberación del usuario)
+
+36
+00:02:13,843 --> 00:02:17,629
+Todavía tenemos trabajo que hacer
+
+37
+00:02:29,109 --> 00:02:33,138
+(Fundación para el software libre.
+30 años impulsando la libertad del usuario)
+
+38
+00:02:33,388 --> 00:02:45,588
+FSF.ORG
+Únete. Contribuye. Aprende más
+
+39
+00:02:00,599 --> 00:02:04,516
+y la clase de sociedad que podemos construir con nuestros poderes digitales
+
